@@ -1,13 +1,17 @@
 # SEA Stage 2 - Data Catalog Project
 
-This is the instructions, requirements, and starter for stage two of the Snap Engineering Academy application process.
+In my project, I created a catalog library of sci-fi books that I am passionate about. There are 16 cards total, each displaying a book
+along with it's title, cover, author, year of publishing, and Goodreads rating.
+There are three features that operate on the data:
+ - sortByYear() function that re-sorts the books by year of publishing
+ - sortByRating() function that re-sorts the books by Goodreads rating
+ - showRandomCard() functions which chooses and displays a random book
 
-## Your Task:
+-----------------------------------------------------------
+
+## Task:
 
 <h3 align="center">Create a "catalog" website for something you're passionate about.</h1>
-
-> [!NOTE]
-> If you have not used Github or programmed a website with JavaScript before, that's OK! Part of the challenge is figuring out things you're not familiar with.  
 
 ## Requirements - Your Catalog Website Should...
 
